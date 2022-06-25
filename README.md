@@ -9,4 +9,5 @@ The model is a **supervised machine learning regression model**. The best model 
 
 The most important features are location and price while the least important features are type, material, and fuel. We can consider to remove the least important features from the survey.
 
-The raw data can be sourced from [here]([https://www.example.com](https://www.kaggle.com/code/karthikbhandary2/boat-analysis/data))
+The raw data can be sourced from [here](https://www.kaggle.com/code/karthikbhandary2/boat-analysis/data)
+
