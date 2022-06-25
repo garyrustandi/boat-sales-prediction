@@ -1,4 +1,4 @@
-# Boat View Prediction 
+# Python Project: Boat View Prediction 
 
 Boatee is a website platform for people to list out their boats.  After some years experience, we have learned that there are several boats that are not high in demand. Product Manager wants to prevent listing boats that have less view in order to boost website traffic. 
 
