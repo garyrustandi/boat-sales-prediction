@@ -1,5 +1,7 @@
 # Regression with Python: Boat View Prediction
 
+Please see the full code [here](https://github.com/garyrustandi/boat-view-prediction/blob/main/Boat%20Listing.ipynb)
+
 Boatee is a website platform for people to list out their boats.  After some years experience, we have learned that there are several boats that are not high in demand. Product Manager wants to prevent listing boats that have less view in order to boost website traffic. 
 
 The **goal** of the analysis is to create a model that can predict number of views and to determine which features that can be removed based on the importance.
